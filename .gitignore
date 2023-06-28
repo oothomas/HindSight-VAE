@@ -125,7 +125,7 @@ fabric.properties
 [Ll]ocal
 [Ss]cripts
 pyvenv.cfg
-.venv
+.hdvenv
 pip-selfcheck.json
 
 # End of https://www.toptal.com/developers/gitignore/api/pycharm,venv
